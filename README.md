@@ -1,6 +1,8 @@
 WildFly Hibernate-Spatial (PostGIS) example
 ===========================================
 
+[![Build Status](https://api.travis-ci.org/dzolo/wildfly-arquillian-hibernate-spatial-postgis.svg?branch=master)](https://travis-ci.org/dzolo/wildfly-arquillian-hibernate-spatial-postgis)
+
 Example of testing Hibernate Spatial with PostGIS using Arquillian and embedded WildFly AS.
 
 Used components:
