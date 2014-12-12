@@ -23,7 +23,7 @@
         <hibernate.version>4.3.5.Final</hibernate.version>
         <hibernate-spatial.version>4.3</hibernate-spatial.version>
         <jts.version>1.13</jts.version>
-        <postgresql.version>8.4-701.jdbc4</postgresql.version>
+        <postgresql.version>9.3-1102-jdbc41</postgresql.version>
         <postgis.version>1.5.2</postgis.version>
         <wildfly.version>8.1.0.Final</wildfly.version>
     </properties>
