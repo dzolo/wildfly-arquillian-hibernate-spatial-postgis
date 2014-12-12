@@ -10,6 +10,13 @@
     <name>Wildfly Hibernate-Spatial PostGIS example</name>
     <description>Example of testing Hibernate Spatial on PostGIS using Arquillian on WildFly AS.</description>
 
+    <developers>
+        <developer>
+            <name>Ondřej Fibich</name>
+            <email>ondrej.fibich@gmail.com</email>
+        </developer>
+    </developers>
+
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
