@@ -6,3 +6,4 @@ pom.xml.next
 release.properties
 etc/datasource.properties
 nb-configuration.xml
+.travis.yml
